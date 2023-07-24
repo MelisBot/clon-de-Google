@@ -5,11 +5,11 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-*[1.Intro]{url}
-*[2. Demo]{url}
-*[3. ¿Qué construiras?]{url}
-*[4. Objetivos de aprendizaje]{url}
-*[5. Requisitos]{url}
+* [1.Intro](url)
+* [2. Demo](url)
+* [3. ¿Qué construiras?](url).
+* [4. Objetivos de aprendizaje](url).
+* [5. Requisitos](url)
 
 ## 1. Intro
 
