@@ -8,11 +8,11 @@
 }
 
 header{
-    height: 15vh;
+    height: 8vh;
 }
 
 main{
-    height: 70vh;
+    height: 83vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,20 +20,25 @@ main{
 }
 
 footer{
-    height: 15vh;
+    background: #f2f2f2;
 }
 header nav{
     display: flex;
     justify-content: flex-end;
+    align-items: center;
+    height: 48px;
+    padding: 6px;
 }
 
 ul {
     display: flex;
     list-style: none;
+    align-items: center;
 }
 
 li{
-    padding: 20px 10px;
+    padding: 15px 15px;
+    color: #70757a
 }
 
 
@@ -41,17 +46,31 @@ header nav ul{
     display: flex;
 }
 
+.perfil{
+    background-size: 32px 32px;
+    border: 0;
+    border-radius: 50%;
+    display: block;
+    margin: 0px;
+    position: relative;
+    height: 32px;
+    width: 32px;
+    z-index: 0
+}
+
 #nav-right-section{
     padding: 20px 10px;
-    padding-inline: 57px;
 }
 
 #nav-left-section{
-    padding: 20px 10px;
+    padding: 0px 0px;
 }
 #footer-listas{
+    font-size: 14px;
     display: flex;
-    justify-content: space-evenly ;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 #footer-listas ul li{
@@ -60,6 +79,12 @@ header nav ul{
 
 .pais{
     padding: 15px 30px;
+    color: #70757a;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
 }
 
 button{
@@ -70,18 +95,35 @@ button{
     border-radius: 4px;
     cursor: pointer;
     color: #3c4043;
+    background-color: #f8f9fa;
+}
 
+button:hover{
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
 }
 
 #botones{
-    margin-bottom: 27%;
+    margin-bottom: 17.5%;
 
 }
 
 #section-buscador{
     margin: 20px 0px;
-    padding: 5px 7px;
-    width: 24px;
+    width: 560px;
+    min-height: 44px;
+    border:  1px solid #dfe1e5;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+#sección-buscador:hover{
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
 
 }
 
@@ -100,4 +142,14 @@ button{
 a:link {
     text-decoration: none;
     color:rgba(0,0,0,.87);
+}
+
+a:visited{
+    text-decoration: none;
+    color: rgba(0,0,0,.87);
+    color: #70757a;
+}
+
+a:hover{
+    text-decoration: underline;
 }
