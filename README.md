@@ -20,7 +20,7 @@ Agradecemos a Tecnolóchicas por la implementación de esta idea y sus conocimie
 
 ****
 ## 2. Demo
-Puedes acceder a la prueba final en el siguiente link (url)
+Puedes acceder a la prueba final en el siguiente link (url:https://verdant-dusk-a3f434.netlify.app/). 
 
 ****
 ## 3. ¿Qué construiras?
