@@ -6,11 +6,11 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-* [1.Intro](url)
-* [2. Demo](url)
-* [3. ¿Qué construiras?](url).
-* [4. Objetivos de aprendizaje](url).
-* [5. Requisitos](url)
+* [1.Intro](url:https://github.com/MelisBot/clon-de-Google#1-intro )
+* [2. Demo](url:https://github.com/MelisBot/clon-de-Google#2-demo)
+* [3. ¿Qué construiras?](url:https://github.com/MelisBot/clon-de-Google#3-qu%C3%A9-construiras).
+* [4. Objetivos de aprendizaje](url:https://github.com/MelisBot/clon-de-Google#4-objetivos-de-aprendizaje).
+* [5. Requisitos](url:https://github.com/MelisBot/clon-de-Google#5-requisitos)
 
 ****
 
